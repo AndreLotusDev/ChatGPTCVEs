@@ -1,7 +1,3 @@
-Certainly! Below is an updated README explaining what a CVE (Common Vulnerabilities and Exposures) is and providing an overview of your project that uses .NET Core, MongoDB, Docker, and integrates with ChatGPT to extract CVEs related to .NET and provide recommendations:
-
----
-
 # CVE Extraction and Recommendation Project
 
 ## Table of Contents
